@@ -1,23 +1,23 @@
 {
-  "name": "unit-test-build",
-  "description": "The best Grunt plugin ever.",
+  "name": "grunt-unit-test-build",
+  "description": "The Grunt plugin ever for build unit test which use seajs.",
   "version": "0.1.0",
-  "homepage": "https://github.com/Naixor/unit-test-build",
+  "homepage": "https://github.com/Naixor/grunt-unit-test-build",
   "author": {
     "name": "hy",
     "email": "hongyesoftware@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Naixor/unit-test-build.git"
+    "url": "git://github.com/Naixor/grunt-unit-test-build.git"
   },
   "bugs": {
-    "url": "https://github.com/Naixor/unit-test-build/issues"
+    "url": "https://github.com/Naixor/grunt-unit-test-build/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Naixor/unit-test-build/blob/master/LICENSE-MIT"
+      "url": "https://github.com/Naixor/grunt-unit-test-build/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
